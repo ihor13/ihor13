@@ -17,8 +17,8 @@
 
 <h3 align = "center">Connect with me!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kemaldemirgil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto: kemal.demirgil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto: @hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <h5 align = "center">Meteor Rush!<br><br>
@@ -26,7 +26,7 @@
 <br></h5>
 <p align = "center">
   
-<img src="https://profile-counter.glitch.me/kemaldemirgil/count.svg"/>
+<img src="https://profile-counter.glitch.me//count.svg"/>
 </p>
 -->
 <h4 align="center">Tools and products I use</h4>
@@ -61,16 +61,16 @@
 
 
 <!-- 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kemaldemirgil&theme=onedark&column=5&margin-w=60&margin-h=20)
+![Trophies](https://github-profile-trophy.vercel.app/?username=&theme=onedark&column=5&margin-w=60&margin-h=20)
 
 <p align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaldemirgil&theme=tokyonight&show_icons=true" alt="kemaldemirgil" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaldemirgil" alt="kemaldemirgil" /></p>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaldemirgil&layout=compact&hide=html" alt="kemaldemirgil" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&theme=tokyonight&show_icons=true" alt="ihorhavr" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=" alt="ihorhavr" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&hide=html" alt="ihorhavr" /></p>
 </p> -->
 
 <!-- 
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?style=flat-square&page_id=kemaldemirgil"/>  &nbsp; &nbsp;</p> -->
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?style=flat-square&page_id="/>  &nbsp; &nbsp;</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=plastic"/>
@@ -95,7 +95,7 @@
 
 
 <!--
-**kemaldemirgil/kemaldemirgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ihor13/ihor13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   Here are some ideas to get you started:
 
